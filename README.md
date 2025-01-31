@@ -1,7 +1,7 @@
 # ARIYEN-AFG
 # Command copy and run Injoy.
 ```
-git clone https://github.com/ARIYEN-CYBER/ARIYEN-AFG.git
+git clone https://github.com/CYBER-ARFIN/ARIYEN-AFG.git
 
 cd ARIYEN-AFG
 
